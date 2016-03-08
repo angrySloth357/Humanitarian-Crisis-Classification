@@ -27,13 +27,13 @@ The tipping point:
 The intent of this effort is not to predict the tipping points, but to identify those nations in which the drivers for human displacement are present. Follow-on development could see a dynamic and live-feed classification methodology to identify nations at stress 2-3 years out, affording governments and NGO’s opportunities to implement directed risk mitigation programs as applicable.
 Security & Terrorism
 
-Sources:
+#Data Sources:
 
 * Council on Foreign Relations (CFR), [Invisible Armies Insugency Tracker](http://www.cfr.org/wars-and-warfare/invisible-armies-insurgency-tracker/p29917)
 * Institute for Economics and Peace (IEP), [Global Peace Index 2015](http://economicsandpeace.org/wp-content/uploads/2015/06/Global-Peace-Index-Report-2015_0.pdf),  [Global Terror Index 2015](http://economicsandpeace.org/wp-content/uploads/2015/11/Global-Terrorism-Index-2015.pdf)
 * Uppsala Universitet, Depaterment of Peace and Conflict Research, Conflict Data Program - [UCDP/PRIO Armed Conflict Dataset v.4-2015, 1946 – 2014](http://www.pcr.uu.se/research/ucdp/datasets/ucdp_prio_armed_conflict_dataset/)
 
-Additional Background Reading on Internally Displaced Persons and Refugees:
+#Additional Background Reading on Internally Displaced Persons and Refugees:
 
 * [Internal Displacement Monitoring Centre (IDMC)](http://www.internal-displacement.org/)
 * [United Nations High Commission on Refugees](http://www.unhcr.org/cgi-bin/texis/vtx/home)
