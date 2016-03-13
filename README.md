@@ -1,6 +1,6 @@
 ## Humanitarian-Crisis-Classification in the Security Domain
 
-This repository os part of a team effort to predict a country's vulnerability to a humanitarian crisis.  The Security domain is based on a number of indices developed by think tanks and nonprofits such as the Institute for Economics and Peace (IEP), the Council on Foreign Releations (CFR), and the Uppsala Universitet, Department of Peace and Conflict Research.  The data is sourced from a wide range of respected sources, including the International Institute of Strategic Studies, The World Bank, various UN Agencies, peace institutes and the EIU. Each of these indices are combined in a weighted model to produce an overall Security & Terrorism score.
+This repository os part of a team effort to predict a country's vulnerability to a humanitarian crisis.  The Security domain is based on a number of indices developed by think tanks and nonprofits such as the Institute for Economics and Peace (IEP), the Council on Foreign Relations (CFR), and the Uppsala Universitet, Department of Peace and Conflict Research.  The data is sourced from a wide range of respected sources, including the International Institute of Strategic Studies, The World Bank, various UN Agencies, peace institutes and the EIU. Each of these indices are combined in a weighted model to produce an overall Security & Terrorism score.
 
 The complete project repository is located [here](https://github.com/emilyhoughkovacs/humanitarian_unrest_classifier).
 
